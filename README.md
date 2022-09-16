@@ -1,16 +1,13 @@
 # flutter_bmi
 
-A new Flutter project.
+A new Flutter project to calculate the body mass indicator.
 
-## Getting Started
+## Preview 
+<div>
+<img src='https://user-images.githubusercontent.com/96690034/190687722-7a4dac39-4fe9-48f8-9abc-48dd91faf5fe.png', width='300'>
+<img src='https://user-images.githubusercontent.com/96690034/190688039-71f089e0-31cc-4453-976b-f76cb47036e4.png', width='300'>
+<img src='https://user-images.githubusercontent.com/96690034/190687858-96ab8323-c1ef-46a1-b527-e583259cb59f.png', width='300'>
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## youtube link
+[flutter BMI App](https://youtu.be/KbexH4Rnfmg)
